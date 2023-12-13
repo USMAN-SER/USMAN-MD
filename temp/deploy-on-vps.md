@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/ItxUsman722/Usman-Md
-      cd Usman-Md
+      git clone https://github.com/USMAN-SER/USMAN-MD
+      cd USMAN-MD
       yarn install --network-concurrency 1
       ```
 
@@ -45,7 +45,7 @@
       port = 5000
       email = "mu30906587222@gmail.com"
       global_url = "instagram.com"
-      OWNER_NAME = "ItxUsman722"
+      OWNER_NAME = "USMAN-SER"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= SECKTOR
       WORKTYPE = public
-      PACK_INFO = "ItxUsman722;Usman-Md"
+      PACK_INFO = "USMAN-SER;USMAN-MD"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
