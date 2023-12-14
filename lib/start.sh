@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting USMAN-Md..."
+echo "Starting USMAN-MD..."
 node lib/client.js
 done
