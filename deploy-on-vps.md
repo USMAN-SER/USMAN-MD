@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="92"
+      OWNER_NUMBER="923090658722"
       MONGODB_URI="url of mongodb y"
       SESSION_ID = "ID-here"
       THUMB_IMAGE = "https://telegra.ph/file/7dd6a9e23d814d8dd6e96.jpg"
