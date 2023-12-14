@@ -7,7 +7,7 @@
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name Usman",
-                "stop": "pm2 stop Usma"
+                "stop": "pm2 stop Usman"
                 },
                "author": "SamPandey001",
               "dependencies": {
