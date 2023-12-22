@@ -1,14 +1,14 @@
 { 
-  "name": "Secktor-2.0",
+  "name": "USMAN-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.ibb.co/ZJcCYrH/secktor-high-resolution-color-logo.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Secktor-2.0", "Secktor","Secktor-Bot","theme bot","multi device","baileys"],
+  "logo": "https://telegra.ph/file/ac084cbfaa5c3af364199.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "USMAN-MD", "Usman","Usman-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "TEAM SECKTOR-2.0"
+      "value": "USMAN-SER"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+     "value": "https://telegra.ph/file/ac084cbfaa5c3af364199.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -87,7 +87,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR-2.0,NEZUKO,ANIME .",
-     "value": "SECKTOR-2.0"
+     "value": "SECKTOR"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
