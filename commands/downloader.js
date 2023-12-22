@@ -1,6 +1,24 @@
-                                                                                             
+/**
+========================================================
+██╗   ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗      ███╗   ███╗██████╗ 
+██║   ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║      ████╗ ████║██╔══██╗
+██║   ██║███████╗██╔████╔██║███████║██╔██╗ ██║█████╗██╔████╔██║██║  ██║
+██║   ██║╚════██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚════╝██║╚██╔╝██║██║  ██║
+╚██████╔╝███████║██║ ╚═╝ ██║██║  ██║██║ ╚████║      ██║ ╚═╝ ██║██████╔╝
+ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝     ╚═╝╚═════╝      
+========================================================
+
+ Copyright (C) 2022.                                     
+ Licensed under the  GPL-3.0 License;                    
+ You may not use this file except in compliance with the License.  
+ It is supplied in the hope that it may be useful                           
+ * @project_name : USMAN-MD                                           
+ * @author : USMAN-SER <https://github.com/USMAN-SER>
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.   
+ * @version 1.0.1                                                                               
  ========================================================
  **/
+
 
 const { tlang, ringtone, cmd,fetchJson, sleep, botpic, getBuffer, pinterest, prefix, Config } = require('../lib')
 const { mediafire } = require("../lib/mediafire.js");
