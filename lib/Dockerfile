@@ -1,4 +1,4 @@
-FROM quay.io/sampandey001/secktor
+FROM quay.io/naveeddogar/kingmd
 RUN git clone https://github.com/USMAN-SER/USMAN-MD /root/USMAN-SER
 WORKDIR /root/USMAN-SER/
 RUN npm install npm@latest
