@@ -15,7 +15,7 @@
  It is supplied in the hope that it may be useful                           
  * @project_name : USMAN-MD                                           
  * @author : USMAN-SER <https://github.com/USMAN-SER>
- * @description : USMAN-MD ,A Multi-functional whatsapp bot.   
+ * @description : USMAN-MD ,A Multi-functional Whatsapp bot.   
  * @version 1.0.1                                                                               
  ========================================================
  **/
