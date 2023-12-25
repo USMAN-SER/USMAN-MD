@@ -91,8 +91,8 @@ Hello, 👋 ${citel.pushName} I am "USMAN-MD" A WhatsApp Bot Create By USMAN-SER
                    }
   
                 }
-                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ
-
+                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n
+🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ
 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴜsᴍᴀɴ sᴇʀ┃ 🍁 `
                 let buttonMessaged = {
                     image: { url: await botpic() },
