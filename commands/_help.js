@@ -67,31 +67,30 @@ Secktor.cmd({
                 let str = `╭━━━━〢 *ᴜsᴍᴀɴ-ᴍᴅ* 〢━━◉\n`
                 str +=
                     '```' + `┃⌯|━━━━━━━━━━━━━━◉
-Hello, 👋 ${citel.pushName} I am "USMAN-MD" A WhatsApp Bot Create By USMAN-SER To Do Everything That Is Possible On WhatsApp based on WhatsApp Multi Device(MD) Support
 
- 
-┃⌯┃ OWNER:- ${Config.ownername}
-┃⌯┃ PREFIX:- [ ${prefix} ]
-┃⌯┃ VERSION:- 1.0.1
-┃⌯┃ MEM:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃⌯┃ PLUGINS:- ${commands.length}
-┃⌯┃ FOUNDER:- USMAN-SER
+┃⌯┃ 🌸 OWNER:- ${Config.ownername}
+┃⌯┃ 🌸 PREFIX:- [ ${prefix} ]
+┃⌯┃ 🌸 VERSION:- 1.0.1
+┃⌯┃ 🌸 MEM:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃⌯┃ 🌸 PLUGINS:- ${commands.length}
+┃⌯┃ 🌸 FOUNDER:- USMAN-SER
 ┃ ╰━━━━━━━━━━━━━━◉\n
 ` + '```'
                 for (const category in cmds) 
                 {
-                   str += `〢━━━『   *${tiny(category)}* 』━━━〢\n` ;
-                   if(text.toLowerCase() == category.toLowerCase()){ str = `〢━━━『 *${tiny(category)}* 』━━━〢\n` ;      
-                        for (const plugins of cmds[category]) { str += `┃⌯│ ${fancytext(plugins,1)}\n` ; }
+                   str += `〢━━━『   *🌸${tiny(category)}🌸* 』━━━〢\n` ;
+                   if(text.toLowerCase() == category.toLowerCase()){ str = `〢━━━『 *🌸${tiny(category)}🌸* 』━━━〢\n` ;      
+                        for (const plugins of cmds[category]) { str += `┃⌯│ 🍁 ${fancytext(plugins,1)}\n` ; }
                         str += `┃━━━━━━━〢⭓\n`  ;
                         break ;
                    }
-                   else { for (const plugins of cmds[category]) { str += `┃⌯│ ${fancytext(plugins,1)}\n` ; }
+                   else { for (const plugins of cmds[category]) { str += `┃⌯│ 🍁 ${fancytext(plugins,1)}\n` ; }
                          str += `┃━━━━━━━〢⭓\n`  ; 
                    }
   
                 }
-                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*Made By Usman-Ser* `
+                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*
+                🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁* `
                 let buttonMessaged = {
                     image: { url: await botpic() },
                     caption: str
@@ -112,12 +111,12 @@ Secktor.cmd({
               const { commands } = require('../lib');
               text = `
   ╭━━〘 *ᴜsᴍᴀɴ-ᴍᴅ* 〙────⊷     
-  ┃ ✭ Theme: ${tlang().title}
-  ┃ ✭ Prefix: ${prefix}
-  ┃ ✭ Owner: ${Config.ownername}
-  ┃ ✭ Commands: ${commands.length}
-  ┃ ✭ Uptime: ${runtime(process.uptime())}
-  ┃ ✭ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+  ┃ 🌸 Theme: ${tlang().title}
+  ┃ 🌸 Prefix: ${prefix}
+  ┃ 🌸 Owner: ${Config.ownername}
+  ┃ 🌸 Commands: ${commands.length}
+  ┃ 🌸 Uptime: ${runtime(process.uptime())}
+  ┃ 🌸 Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
   ╰━━━━━━━━━━━━━━⊷\n`
   text = '';
               for (let i = 0; i < commands.length; i++){if(commands[i].pattern==undefined){ continue; }else { text += `*${i+1} ${fancytext(commands[i].pattern,1)}*\n  ${fancytext(commands[i].desc,1)}\n`}}
@@ -155,7 +154,7 @@ Secktor.cmd({
                     thumbnail: log0,
                     mediaType: 2,
                     mediaUrl: '',
-                    sourceUrl: `https://wa.me/+` + owner[0] + '?text=Hii bro,I am ' + citel.pushName,
+                    sourceUrl: `https://wa.me/+923090658722` + owner[1] + '?text=Hii bro,I am ' + citel.pushName,
                 },
             },
         };
