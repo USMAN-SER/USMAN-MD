@@ -67,7 +67,6 @@ Secktor.cmd({
                 let str = `╭━━━━〢 *ᴜsᴍᴀɴ-ᴍᴅ* 〢━━◉\n`
                 str +=
                     '```' + `┃⌯|━━━━━━━━━━━━━━◉
-
 ┃⌯┃ 🌸 OWNER:- ${Config.ownername}
 ┃⌯┃ 🌸 PREFIX:- [ ${prefix} ]
 ┃⌯┃ 🌸 VERSION:- 1.0.1
@@ -89,8 +88,7 @@ Secktor.cmd({
                    }
   
                 }
-                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*
-                🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁* `
+                str+= `*⭐️Type:* _${prefix}help cmd_ name to know more about specific command.\n *🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁* `
                 let buttonMessaged = {
                     image: { url: await botpic() },
                     caption: str
