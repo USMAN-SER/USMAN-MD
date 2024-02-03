@@ -1,7 +1,7 @@
 {
                "name": "USMAN-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by USMAN-SER.",
+               "description": "Multi Device whatsapp bot by USMAN-SER.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
