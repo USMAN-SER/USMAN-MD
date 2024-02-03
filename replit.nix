@@ -6,7 +6,7 @@
         pkgs.yarn
         pkgs.git
         pkgs.ffmpeg
-        pkgs.neofetch
+        pkgs.neofetchm
         pkgs.libwebp
         pkgs.speedtest-cli
         pkgs.wget
