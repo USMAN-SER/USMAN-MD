@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/sla.sher_' // add your username
 global.sudo = process.env.SUDO || '923090658722'
 global.devs = '923090658722';
 global.website = 'https://github.com/USMAN-SER/USMAN-MD' // Hello world
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ac084cbfaa5c3af364199.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/82dbd5a8d9e38a81d7608.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'USMAN-MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Usman-Ser' : process.env.OWNER_NAME,
