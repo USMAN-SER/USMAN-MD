@@ -195,13 +195,13 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x463efa = _0x46cf76.quoted.text;
-    if (_0x463efa.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x463efa.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x297d6e = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
       const _0xe2df9 = {
         image: _0x297d6e,
-        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ⬇️ *𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* ⬆️\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```.song```\nℹ️ *Description:-* ```song download```\n🔥 *Help:-* ```.song lelena```\n\n\n📟 *Command:-* ```.video```\nℹ️ *Description:-* ```video download```\n🔥 *help:-* ```.video lelena```\n\n\n📟 *Command:-* ```.tiktok```\nℹ️ *Description:-* ```tiktok video download```\n🔥 *Help:-* ```.tiktok -tiktok video url-```\n\n\n📟 *Command:-* ```.fb```\nℹ️ *Description:-* ```fb video download```\n🔥 *Help:-* ```.fb -fb video url-```\n\n\n📟 *Command:-* ```.fmmod```\nℹ️ *Description:-* ```download fouad-Whatsapp-Mods```\n🔥 *Help:-* ```.fmmod```\n\n\n📟 *Command:-* ```.apk```\nℹ️ *Description:-* ```application download```\n🔥 *Help:-* ```.apk whatsapp```\n\n\n📟 *Command:-* ```.img```\nℹ️ *Description:-* ```Get image from google```\n🔥 *Help:-* ```.image cat```\n\n\n📟 *Command:-* ```.mp4down```\nℹ️ *Description:-* ```download mp4```\n🔥 *Help:-* ```.mp4down -video url-```\n\n\n📟 *Command:-* ```.mediafire```\nℹ️ *Description:-* ```download mediafire file```\n🔥 *Help:-* ```.mediafire  -mediafire url-```\n\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n"
+        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ⬇️ *𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* ⬆️\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```song```\nℹ️ *Description:-* ```song download```\n\n📟 *Command:-* ```video```\nℹ️ *Description:-* ```video download```\n\n📟 *Command:-* ```tiktok```\nℹ️ *Description:-* ```tiktok video download```\n\n📟 *Command:-* ```fb```\nℹ️ *Description:-* ```fb video download```\n\n📟 *Command:-* ```fmmod```\nℹ️ *Description:-* ```download fouad-Whatsapp-Mods```\n\n📟 *Command:-* ```apk```\nℹ️ *Description:-* ```application download```\n\n📟 *Command:-* ```image```\nℹ️ *Description:-* ```Get image from google```\n\n📟 *Command:-* ```ytmp4```\nℹ️ *Description:-* ```download mp4```\n\n📟 *Command:-* ```mediafire```\nℹ️ *Description:-* ```download mediafire file```\n\n📟 *Command:-* ```insta```\nℹ️ *Description:-* ```insta download```\n\n📟 *Command:-* ```tgs```\nℹ️ *Description:-* ```telegram download```\n\n📟 *Command:-* ```play```\nℹ️ *Description:-* ```song played```\n\n📟 *Command:-* ```ringtone```\nℹ️ *Description:-* ```sound download```\n\n📟 *Command:-* ```yts```\nℹ️ *Description:-* ```yts search```\n\n📟 *Command:-* ```playlist```\nℹ️ *Description:-* ```list download```\n\n\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n"
       };
       const _0x52d998 = await _0x28368f.sendMessage(_0x46cf76.chat, _0xe2df9, {
         'quoted': _0x46cf76
@@ -230,7 +230,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       };
       const _0x2291b3 = {
         image: _0x46c334,
-        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ 🔍 *𝗦𝗘𝗔𝗥𝗖𝗛 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🔍\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```.findvideo```\nℹ️ *Description:-* ```find videos```\n🔥 *Help:-* ```.findvideo -mention video-```\n\n\n📟 *Command:-* ```.findsong```\nℹ️ *Description:-* ```find songs```\n🔥 *help:-* ```.findsong -mention song-```\n\n\n📟 *Command:-* ```.yts```\nℹ️ *Description:-* ```youtube search```\n🔥 *Help:-* ```.yts lelena```\n\n\n📟 *Command:-* ```.weather```\nℹ️ *Description:-* ```weather information```\n🔥 *Help:-* ```.weather monaragala```\n\n\n📟 *Command:-* ```.movie```\nℹ️ *Description:-* ```movie search```\n🔥 *Help:-* ```.movie gajaman```\n\n\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n"
+        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ 🔍 *𝗦𝗘𝗔𝗥𝗖𝗛 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🔍\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```npm```\nℹ️ *Description:-* ```npm search```\n\n📟 *Command:-* ```ss```\nℹ️ *Description:-* ```screenshot from web```\n\n📟 *Command:-* ```yts```\nℹ️ *Description:-* ```youtube search```\n\n📟 *Command:-* ```weather```\nℹ️ *Description:-* ```weather information```\n\n📟 *Command:-* ```imdb```\nℹ️ *Description:-* ```imdb search```\n\n📟 *Command:-* ```couplepp```\nℹ️ *Description:-* ```coupple picture```\n\n📟 *Command:-* ```iswa```\nℹ️ *Description:-* ```number search```\n\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n"
       };
       const _0xcc8945 = await _0x28368f.sendMessage(_0x46cf76.chat, _0x2291b3, {
         'quoted': _0x46cf76
@@ -253,13 +253,13 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x4c1956 = _0x46cf76.quoted.text;
-    if (_0x4c1956.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x4c1956.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x5b0ac9 = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
       const _0x50b5d4 = {
         image: _0x5b0ac9,
-        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ 🛠️ *𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🛠️\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```.sticker```\nℹ️ *Description:-* ```image to sticker```\n🔥 *Help:-* ```.sticker mention image```\n\n\n📟 *Command:-* ```.attp```\nℹ️ *Description:-* ```create colourfull sticker```\n🔥 *help:-* ```.attp prabath-md```\n\n\n📟 *Command:-* ```.ttp```\nℹ️ *Description:-* ```create sticker```\n🔥 *Help:-* ```.ttl prabath-md```\n\n\n📟 *Command:-* ```.steal```\nℹ️ *Description:-* ```change sticker pack name```\n🔥 *Help:-* ```.steal prabath-md```\n\n\n📟 *Command:-* ```.logo```\nℹ️ *Description:-* ```create logo```\n🔥 *Help:-* ```.logo```\n\n\n📟 *Command:-* ```.ptt```\nℹ️ *Description:-* ```audio to ptt```\n🔥 *Help:-* ```.ptt -mention any audio-```\n\n\n📟 *Command:-* ```.ss```\nℹ️ *Description:-* ```take web screen shot ```\n🔥 *Help:-* ```.ss -website url-```\n\n\n📟 *Command:-* ```.trt```\nℹ️ *Description:-* ```translate any language to sinhala```\n🔥 *Help:-* ```.trt -mention message-```\n\n\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n"
+        caption: "\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃ 🛠️ *𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🛠️\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━\n             \n\n\n📟 *Command:-* ```sticker```\nℹ️ *Description:-* ```image,video to sticker```\n\n📟 *Command:-* ```attp```\nℹ️ *Description:-* ```create colourfull sticker```\n\n📟 *Command:-* ```ttp```\nℹ️ *Description:-* ```create sticker```\n\n📟 *Command:-* ```steal```\nℹ️ *Description:-* ```change sticker pack name```\n\n📟 *Command:-* ```round```\nℹ️ *Description:-* ```create round```\n\n📟 *Command:-* ```.logo```\nℹ️ *Description:-* ```logo maker```\n\n📟 *Command:-* ```crop```\nℹ️ *Description:-* ``` crop images ```\n\n📟 *Command:-* ```trt```\nℹ️ *Description:-* ```translate any languges```\n\n📟 *Command:-* ```fancy```\nℹ️ *Description:-* ```stylish text```\n\n📟 *Command:-* ```photo```\nℹ️ *Description:-* ```convert sticker to photo```\n\n📟 *Command:-* ```tiny```\nℹ️ *Description:-* ```short url```\n\n📟 *Command:-* ```toaudio```\nℹ️ *Description:-* ```convet audio```\n\n\n\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n"
       };
       const _0x2ea02b = await _0x28368f.sendMessage(_0x46cf76.chat, _0x50b5d4, {
         'quoted': _0x46cf76
@@ -282,7 +282,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x14fa58 = _0x46cf76.quoted.text;
-    if (_0x14fa58.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x14fa58.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x3d1d41 = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
@@ -311,7 +311,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x278292 = _0x46cf76.quoted.text;
-    if (_0x278292.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x278292.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x55b67d = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
@@ -340,7 +340,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x1e2ab2 = _0x46cf76.quoted.text;
-    if (_0x1e2ab2.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x1e2ab2.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x37451b = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
@@ -369,7 +369,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x18d66f = _0x46cf76.quoted.text;
-    if (_0x18d66f.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x18d66f.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x27ce1f = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
@@ -398,7 +398,7 @@ cmd(_0xaefeb0, async (_0x28368f, _0x46cf76, _0x189672) => {
       return;
     }
     const _0x46f274 = _0x46cf76.quoted.text;
-    if (_0x46f274.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗦𝗧* 🎗️\n\n\n🔢 Please reply the number you want to select\n\n\n\n*1.1 |DOWNLOADER COMMANDS*\n\n*1.2 |SEARCH COMMANDS*\n\n*1.3 |CONVERT COMMANDS*\n\n*1.4 |GROUP COMMANDS*\n\n*1.5 |ADMIN COMMANDS*\n\n*1.6 |GAME COMMANDS*\n\n*1.7 |HEROKU COMMANDS*\n\n*1.8 |OTHER COMMANDS*\n\n\nᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴄʜɪɴᴛʜᴀ ᴀɴᴅ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸\n")) {
+    if (_0x46f274.includes("\n*𝗨𝗦𝗠𝗔𝗡-𝗠𝗗_𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧* 🥰\n*HELLO ${citel.pushName}*\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* ${runtime(process.uptime())}\n*╰──────────●✦►*\n\n\n*🌟 Reply the Number you want to select*\n\n\n\n╭──────────●●►\n│💞 *LIST MENU*\n│   ───────\n│ *1.1 |DOWNLOADER COMMANDS*\n│ *1.2 |SEARCH COMMANDS*\n│ *1.3 |CONVERT COMMANDS*\n│ *1.4 |GROUP COMMANDS*\n│ *1.5 |ADMIN COMMANDS*\n│ *1.6 |GAME COMMANDS*\n│ *1.7 |HEROKU COMMANDS*\n│ *1.8 |OTHER COMMANDS*\n╰───────────●●►\n\n\nᴜsᴍᴀɴ-ᴍᴅ • ᴍᴀᴅᴇ ʙʏ ɴᴀᴠᴇᴇᴅ ᴅᴏɢᴀʀ ᴀɴᴅ ᴜsᴍᴀɴ sᴇʀ\nʀᴇʟᴇᴀsᴇᴅ • ²⁰²⁴/⁰²/⁰⁴\n")) {
       const _0x45211a = {
         url: "https://telegra.ph/file/50eefcea9952497b1c135.jpg"
       };
