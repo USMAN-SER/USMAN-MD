@@ -1,15 +1,19 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+  _   _ ____  __  __    _    _   _       __  __ ____  
+ | | | / ___||  \/  |  / \  | \ | |     |  \/  |  _ \ 
+ | | | \___ \| |\/| | / _ \ |  \| |_____| |\/| | | | |
+ | |_| |___) | |  | |/ ___ \| |\  |_____| |  | | |_| |
+  \___/|____/|_|  |_/_/   \_\_| \_|     |_|  |_|____/ 
+                                                                                                          
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @project_name : USMAN-MD                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
  **/
@@ -344,10 +348,10 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Sʟᴀꜱʜᴇʀ-Oꜰꜰɪᴄɪᴀʟ.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by ᴜsᴍᴀɴ sᴇʀ.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-_This is  ${tlang().title}._
+_This is Usman-Md_
 ${alivemessage}
 
 *Version:-* _2.0.1_
@@ -357,7 +361,7 @@ ${alivemessage}
 
 _Type ${prefix}menu for my command list._
 
-_Powered by ${Config.ownername}_
+_🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁_
 `;
             let aliveMessage = {
                 image: {
