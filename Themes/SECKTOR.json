@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*"
       },
       "global": {
-          "botName": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ USMAN-MD ",
+          "botName": "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐔𝐬𝐦𝐚𝐧 𝐌𝐝",
           "body": "Wʜᴀᴛꜱᴀᴘᴘ-Bᴏᴛ",
           "greet2" : "Sᴇɴᴘᴀɪ",
           "pic1": "https://telegra.ph/file/cdc7a87b3a12b33e72955.jpg",
@@ -24,10 +24,10 @@
          "dotbody" : "ɪ'ᴍ ᴀʟɪᴠᴇ , ꜱᴇɴᴘᴀɪ.",
           "promote": "ᴀᴅᴍɪɴ ʀᴏʟᴇ ɢɪᴠᴇɴ ᴛᴏ ᴍʏ ᴅᴀʀʟɪɴɢ",
           "pmallow": "```Hii,This is USMAN-MD``` \n```An assistant of My Author.```\n```My Author is busy right now.```\n```Kindly Leave your Message.```\n\n```I will inform him about your message asap......```",
-          "pmblock": "❌ *ʙʟᴏᴄᴋᴇᴅ*\n\n Yᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ʙʟᴏᴄᴋᴇᴅ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ.\n\n _ᴘᴏᴡᴇʀᴇᴅ ʙʏ USMAN-MD_",
-          "pmwarn": "✋*Hɪɪ* \nᴘʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ꜱᴘᴀᴍ ᴇʟꜱᴇ ɪ'ʟʟ ʙʟᴏᴄᴋ ʏᴏᴜ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ. _Yᴏᴜ ʜᴀᴠᴇ ${checkPermit.times} ᴡᴀʀɴɪɴɢ(s)._\n\n *ᴘᴏᴡᴇʀᴇᴅ ʙʏ USMAN-MD*",
-          "permited": "Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nNᴏᴡ ʏᴏᴜ ᴀʀᴇ ᴘᴇʀᴍɪᴛᴛᴇᴅ ʙʏ ᴍʏ ᴏᴡɴᴇʀ ᴛᴏ ᴘᴍ ɴᴏᴡ.\n\n *ᴘᴏᴡᴇʀᴇᴅ ʙʏ USMAN-MD", 
-          "revoked" : "*Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nYᴏᴜʀ ᴘᴍ ᴘᴇʀᴍɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ʜᴀꜱ ʙᴇᴇɴ ᴘʀᴏᴠᴏᴋᴇᴅ ɴᴏᴡ.\n\n _ᴘᴏᴡᴇʀᴇᴅ ʙʏ USMAN-MD_",
+          "pmblock": "❌ *ʙʟᴏᴄᴋᴇᴅ*\n\n Yᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ʙʟᴏᴄᴋᴇᴅ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐔𝐬𝐦𝐚𝐧 𝐌𝐝_",
+          "pmwarn": "✋*Hɪɪ* \nᴘʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ꜱᴘᴀᴍ ᴇʟꜱᴇ ɪ'ʟʟ ʙʟᴏᴄᴋ ʏᴏᴜ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ. _Yᴏᴜ ʜᴀᴠᴇ ${checkPermit.times} ᴡᴀʀɴɪɴɢ(s)._\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐔𝐬𝐦𝐚𝐧 𝐌𝐝_",
+          "permited": "Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nNᴏᴡ ʏᴏᴜ ᴀʀᴇ ᴘᴇʀᴍɪᴛᴛᴇᴅ ʙʏ ᴍʏ ᴏᴡɴᴇʀ ᴛᴏ ᴘᴍ ɴᴏᴡ.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐔𝐬𝐦𝐚𝐧 𝐌𝐝_", 
+          "revoked" : "*Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nYᴏᴜʀ ᴘᴍ ᴘᴇʀᴍɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ʜᴀꜱ ʙᴇᴇɴ ᴘʀᴏᴠᴏᴋᴇᴅ ɴᴏᴡ.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐔𝐬𝐦𝐚𝐧 𝐌𝐝_",
           "demote": "Uʜʜ,Aᴅᴍɪɴ-Rᴏʟᴇ ᴛᴀᴋᴇɴ ʙᴀᴄᴋ",
           "antlink": "Lɪɴᴋ-Dᴇᴛᴇᴄᴛᴇᴅ.\n*Gᴏᴏᴅ ʙʏᴇ Sᴇɴᴘᴀɪ*",
           "mention": "Pʟᴇᴀꜱᴇ ᴍᴇɴᴛɪᴏɴ ᴀɴʏ ᴜꜱᴇʀ ꜱᴇɴᴘᴀɪ",
