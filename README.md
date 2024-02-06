@@ -1,7 +1,7 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/82dbd5a8d9e38a81d7608.jpg"> 
+  <a href="https://chat.whatsapp.com/EaJOSnMrWHe1VZNaQ9LjGI">
+    <img alt=Support height="350" src="https://telegra.ph/file/b9db0779278b584eafb51.jpg"> 
     </p>
 <h1 align="center">    USMAN-MD
 </h1>
@@ -26,7 +26,7 @@
 ---
   
 ## Fork This Repo
-<div align="center">
+<div align="left">
   
 <a href="https://github.com/USMAN-SER/USMAN-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
