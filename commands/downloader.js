@@ -1,15 +1,19 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+  _   _ ____  __  __    _    _   _       __  __ ____  
+ | | | / ___||  \/  |  / \  | \ | |     |  \/  |  _ \ 
+ | | | \___ \| |\/| | / _ \ |  \| |_____| |\/| | | | |
+ | |_| |___) | |  | |/ ___ \| |\  |_____| |  | | |_| |
+  \___/|____/|_|  |_/_/   \_\_| \_|     |_|  |_|____/ 
+                                                                                                          
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @project_name : USMAN-MD                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
  **/
@@ -168,7 +172,7 @@ cmd({
             use: '<Hii,this is Slasher>',
         },
         async(Void, citel, text) => {
-            if (!text && !citel.quoted) return citel.reply(`*Please give me Text*\n *_Example : .tts Hi,I am Slasher-Official._*`);
+            if (!text && !citel.quoted) return citel.reply(`*Please give me Text*\n *_Example : .tts Hi,I am Usman md._*`);
             if (!text) { text=citel.quoted.text;  }
             let texttts = text
             const ttsurl = googleTTS.getAudioUrl(texttts, {
@@ -189,7 +193,7 @@ cmd({
             use: '<faded-Alan Walker>',
         },
         async(Void, citel, text) => {
-            if (!text) return citel.reply(`Example : ${prefix}audio Back in black`)
+            if (!text) return citel.reply(`Example : ${prefix}video Khayal rakhya kar`)
             let yts = require("secktor-pack");
             let search = await yts(text)
             const getRandom = (ext) => { return `${Math.floor(Math.random() * 10000)}${ext}`;  };
@@ -224,7 +228,7 @@ cmd({
                     url: anu.thumbnail,
                 },
                 caption: `
-┠┌─⭓『 Sᴇᴄᴋᴛᴏʀ-Mᴅ 』━━━
+┠┌─⭓『 Ʋsмαи-𐌼ᴅ 』━━━
 ┃│◦ *Youtube Player* 
 ┃│◦ *Title:* ${anu.title}
 ┃│◦ *Duration:* ${anu.timestamp}
@@ -310,7 +314,7 @@ cmd({
 	const apkSize = parseInt(baby1[0].size);
 	if(apkSize > 100) return citel.reply(`❌ File size bigger than 150mb.`);
 	
-let result4 = ` *Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
+let result4 = ` *Ʋsмαи-𐌼ᴅ*
 *Nᴀᴍᴇ* : ${baby1[0].nama}
 *Sɪᴢᴇ* :${baby1[0].size}
 *Mɪᴍᴇ* : ${baby1[0].mime}
@@ -349,7 +353,7 @@ cmd({
                 let yts = require("secktor-pack")
                 let search = await yts(text);
                 let i = search.all[1] ;
-                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*Sᴇᴄᴋᴛᴏʀ-Mᴅ*" ;
+                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁*" ;
                 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap });
            
            
@@ -405,9 +409,9 @@ cmd({
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
-            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •ꜱᴇᴄᴋᴛᴏʀ-ᴍᴅ•`);
+            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •Ʋsмαи-𐌼ᴅ•`);
             let search = await yts(text);
-            let textt = "*YouTube Search*\n Result From " + text + "\n   ─────────────────── \n";
+            let textt = "*YouTube Search By Usman-Md*\n Result From " + text + "\n   ─────────────────── \n";
             let no = 1;
             for (let i of search.all) 
 	    {
@@ -642,7 +646,7 @@ async(Void, citel, text) => {
 if (!text) return await citel.reply(`*_Ohh PLease, Give Me Song Name_*`);
 let search = await yts(text)
 let i = search.all[1] ;
-let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•ꜱᴇᴄᴋᴛᴏʀ-ᴍᴅ•*" ;
+let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁*" ;
 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap })
 })
 */
