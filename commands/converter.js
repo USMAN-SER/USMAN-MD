@@ -1,15 +1,19 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+  _   _ ____  __  __    _    _   _       __  __ ____  
+ | | | / ___||  \/  |  / \  | \ | |     |  \/  |  _ \ 
+ | | | \___ \| |\/| | / _ \ |  \| |_____| |\/| | | | |
+ | |_| |___) | |  | |/ ___ \| |\  |_____| |  | | |_| |
+  \___/|____/|_|  |_/_/   \_\_| \_|     |_|  |_|____/ 
+                                                                                                          
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @project_name : USMAN-MD                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
  **/
@@ -166,16 +170,16 @@ cmd({
             pattern: "fancy",
             desc: "Makes stylish/fancy given text",
             category: "converter",
-            use: '56 Secktor',
+            use: '56 Usman',
             react: "✅",
             filename: __filename
         },
         async(Void, citel, text) => {
             if (isNaN(text.split(" ")[0]) || !text) {
                 let text = tiny(
-                    "Fancy text generator\n\nExample: .fancy 32 Secktor\n\n"
+                    "Fancy text generator\n\nExample: .fancy 32 Usman\n\n"
                 );
-                listall("Secktor Bot").forEach((txt, num) => {
+                listall("Usman Bot").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
