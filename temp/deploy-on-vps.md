@@ -55,7 +55,7 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= USMAN-MD
+      THEME= SECTOR
       WORKTYPE = public
       PACK_INFO = "Usman-Ser; USMAN-MD"
       ANTILINK_VALUES = "chat.whatsapp.com"
