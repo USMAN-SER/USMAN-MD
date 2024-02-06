@@ -361,7 +361,7 @@ ${alivemessage}
 
 _Type ${prefix}menu for my command list._
 
-_🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁_
+*🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁*
 `;
             let aliveMessage = {
                 image: {
