@@ -1,12 +1,21 @@
 /**
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
+========================================================
+  _   _ ____  __  __    _    _   _       __  __ ____  
+ | | | / ___||  \/  |  / \  | \ | |     |  \/  |  _ \ 
+ | | | \___ \| |\/| | / _ \ |  \| |_____| |\/| | | | |
+ | |_| |___) | |  | |/ ___ \| |\  |_____| |  | | |_| |
+  \___/|____/|_|  |_/_/   \_\_| \_|     |_|  |_|____/ 
+                                                                                                          
+========================================================
+ Copyright (C) 2022.                                                                                        
+ Licensed under the  GPL-3.0 License;                                                      
+ You may not use this file except in compliance with the License.    
+ It is supplied in the hope that it may be useful                                     
+ * @project_name : USMAN-MD                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
+ * @version 2.0.1                                                                                             
+ ========================================================
  **/
 
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang, botpic, runtime, prefix, Config ,sleep} = require('../lib')
@@ -246,7 +255,12 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SamPandey001.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-_This is  ${tlang().title}._
+*ι αм σηℓιηє иσω - нσω ¢αη ι нєℓρ уσυ*
+ 
+_ι αм ʋƨмαи-м∂ ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
+
+_If any query : wa.me/923090658722_
+
 ${alivemessage}
 
 *Version:-* _0.0.7_
@@ -256,7 +270,7 @@ ${alivemessage}
 
 _Type ${prefix}menu for my command list._
 
-_Powered by ${Config.ownername}_
+🍁┃ᴜsᴍᴀɴ-ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ┃ 🍁
 `;
             let aliveMessage = {
                 image: {
