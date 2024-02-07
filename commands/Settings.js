@@ -1,3 +1,23 @@
+/**
+========================================================
+  _   _ ____  __  __    _    _   _       __  __ ____  
+ | | | / ___||  \/  |  / \  | \ | |     |  \/  |  _ \ 
+ | | | \___ \| |\/| | / _ \ |  \| |_____| |\/| | | | |
+ | |_| |___) | |  | |/ ___ \| |\  |_____| |  | | |_| |
+  \___/|____/|_|  |_/_/   \_\_| \_|     |_|  |_|____/ 
+                                                                                                          
+========================================================
+ Copyright (C) 2022.                                                                                        
+ Licensed under the  GPL-3.0 License;                                                      
+ You may not use this file except in compliance with the License.    
+ It is supplied in the hope that it may be useful                                     
+ * @project_name : USMAN-MD                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
+ * @version 2.0.1                                                                                             
+ ========================================================
+ **/
+
 const { tlang, ringtone, cmd,fetchJson, sleep, botpic,ffmpeg, getBuffer, pinterest, prefix, Config } = require('../lib')
 const { mediafire } = require("../lib/mediafire.js");
 const googleTTS = require("google-tts-api");
@@ -45,7 +65,7 @@ cmd({
 
                 caption: `
 
-*⦁──🎃𝙎𝙀𝙏𝙏𝙄𝙉𝙂 𝙇𝙄𝙎𝙏📍──⦁*
+*⦁──🎃𝙐𝙎𝙈𝘼𝙉-𝙈𝘿 𝙎𝙀𝙏𝙏𝙄𝙉𝙂 𝙇𝙄𝙎𝙏📍──⦁*
 
 1♻️➣ To put Antilink type :
 Eg:- .setvar ANTILINK:false
@@ -105,7 +125,7 @@ Eg:- .set THUMB_IMAGE:put image url
 Eg:- .setvar WORKTYPE:public/private
 
 
-©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝙆𝙄𝙉𝙂-𝙈𝘿
+©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝙐𝙎𝙈𝘼𝙉-𝙈𝘿
 `,
 
                 footer: tlang().footer,
