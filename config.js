@@ -9,7 +9,7 @@ global.port= process.env.PORT || 5000
 global.email = 'mu30906587222@gmail.com'
 global.github = 'https://github.com/USMAN-SER/USMAN-MD'
 global.location = 'Pakiatan'
-global.gurl = 'https://instagram.com/sla.sher_' // add your username
+global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '923090658722'
 global.devs = '923090658722';
 global.website = 'https://github.com/USMAN-SER/USMAN-MD' // Hello world
@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'Ｖ-1.０.１' : process.env.VERSION,
-  LANG: process.env.THEME|| 'SECKTOR',
+  LANG: process.env.THEME|| 'USMAN',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
